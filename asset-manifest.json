@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Plus-Plus/static/css/main.b0e1b900.css",
-    "main.js": "/Plus-Plus/static/js/main.cb6dd047.js",
+    "main.js": "/Plus-Plus/static/js/main.0475e031.js",
     "static/media/FontsFree-Net-SF-Pro-Rounded-Semibold.ttf": "/Plus-Plus/static/media/FontsFree-Net-SF-Pro-Rounded-Semibold.c3034a60867f133da0e7.ttf",
     "static/media/FontsFree-Net-SF-Pro-Rounded-Bold.ttf": "/Plus-Plus/static/media/FontsFree-Net-SF-Pro-Rounded-Bold.e6820bab60d6b6bcdc59.ttf",
     "static/media/SF-Pro-Rounded-Regular.ttf": "/Plus-Plus/static/media/SF-Pro-Rounded-Regular.1eeaf1332ceeea5b68db.ttf",
@@ -49,10 +49,10 @@
     "static/media/Eyes.png": "/Plus-Plus/static/media/Eyes.dacaad112e5bf5dcc126.png",
     "index.html": "/Plus-Plus/index.html",
     "main.b0e1b900.css.map": "/Plus-Plus/static/css/main.b0e1b900.css.map",
-    "main.cb6dd047.js.map": "/Plus-Plus/static/js/main.cb6dd047.js.map"
+    "main.0475e031.js.map": "/Plus-Plus/static/js/main.0475e031.js.map"
   },
   "entrypoints": [
     "static/css/main.b0e1b900.css",
-    "static/js/main.cb6dd047.js"
+    "static/js/main.0475e031.js"
   ]
 }
